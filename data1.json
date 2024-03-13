@@ -1,0 +1,14 @@
+{
+  "name": {
+    "first": "John",
+    "last": "Doe"
+  },
+  "age": 25,
+  "address": {
+    "line1": "123 Main St",
+    "line2": "Springfield",
+    "city": "Pune",
+    "state": "Mharashtra"
+  },
+  "gender": "male"
+}

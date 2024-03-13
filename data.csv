@@ -1,0 +1,5 @@
+"name__first","name__last","age","address__line1","address__line2","address__city","address__state","gender"
+"John","Doe","15","123 Main St","Springfield","Pune","Mharashtra","male"
+"John","Doe","5","123 Main St","Springfield","Pune","Mharashtra","male"
+"John","Doe","9","123 Main St","Springfield","Pune","Mharashtra","male"
+"John","Doe","12","123 Main St","Springfield","Pune","Mharashtra","male"
